@@ -1,4 +1,4 @@
-function makeTransaction(quantity, pricePerDroid) {
+function getShippingMessage(country, price, deliveryFee) {
   // ...
 }
 

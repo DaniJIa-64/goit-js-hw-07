@@ -1,4 +1,4 @@
-function makeTransaction(quantity, pricePerDroid) {
+function getElementWidth(content, padding, border) {
   // ...
 }
 
