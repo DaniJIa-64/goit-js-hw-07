@@ -1,3 +1,3 @@
 # goit-js-hw-04
 
-"Objects"
+"04-Objects"
