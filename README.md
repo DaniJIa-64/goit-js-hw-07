@@ -1,3 +1,3 @@
-# goit-js-hw-05
+# goit-js-hw-06
 
-"forEach, map, flatMap, filter, find, every, some, reduce, toSorted"
+"Clas, this, prototype, call, apply, bind"
