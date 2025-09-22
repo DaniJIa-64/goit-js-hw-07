@@ -1,3 +1,3 @@
-# goit-js-hw-06
+# goit-js-hw-07
 
-"Clas, this, prototype, call, apply, bind"
+"DOM"
